@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.conteiner{
+    width: 75%;
+    margin: 0 auto;
+}
+
+#titulo{
+    text-align: center;
+    padding-top: 0.5%;
+   
+}
+
+#subtitulo{
+    text-align: center;
+    font-size: large;
+    margin: 0.5%;
+   
+}
+
+#p_header{
+    font-size: large;
+ 
+}
+
+.lista{
+    margin: 0.8% ;
+   
+}
+
+.hr{
+    width: 70%;
+    align-items: left;
+    border-color: black;
+    margin-top: 0.5%;
+}
+
+#descri{
+    margin: 0.5%;
+}
+
+.img_desc{
+    width: 150px;
+}
+
+.nome_desc{
+    font-size: large;
+    margin-bottom: 0.5%;
+}
+
+.p_estre{
+    margin: 2% 0%;
+}
+
+.estrela{
+    width: 20px;
+}
+
+.texto{
+    margin-left: 2%;
+}
+
+#H2{
+    margin: 2% 0;
+}
+
+.td1{
+    text-align: left;
+}
+
+#TH{
+    text-align: right;
+}
+
+.img_tabela{
+    width: 70px;
+}
+
+.TD{
+   text-align: center;
+}
+
+.estrela2{
+    width: 20px;
+}
